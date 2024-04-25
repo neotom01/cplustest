@@ -1,3 +1,13 @@
+/*Codigo de prueba y desarrollo de algoritmos por Tomás Orocio
+temas basico en algoritmia y matematicas en lenguaje C y C++
+      //HHHHHH\\  HHHHHHHH  //HHHHHH\\  //HHHHHH\\ HHHH  //HHHHHH\\
+      HH      HH  HH    HH  HH      HH  HH         HHHH  HH      HH
+      HH      HH  HHHHHHH   HH      HH  HH         HHHH  HH      HH
+      HH      HH  HH    HH  HH      HH  HH         HHHH  HH      HH
+      \\HHHHH//   HH    HH  \\HHHHH//   \\HHHHHH// HHHH  \\HHHHH//
+      */
+//conversion de decimal a binario con recursividad
+
 #include <iostream> 
 #include <string>
 using namespace std;
