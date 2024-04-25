@@ -49,9 +49,9 @@ int main()
         	         cout << "C[" << i << j <<"]=";
         	         cout << "SUM{";
 					 for (k=0; k<3; k++){	
-                         //cout << " A(" << i << ")(" << k <<")X"<< "B(" << k << ")(" << j <<") ";
+                         //
                          cout << " A(" << matriz1[i][k] <<")X"<< "B(" << matriz2[k][j] <<") ";
-                         //cout << matriz1[i][k] << matriz2[k][j];
+                         //
                          if(k == 2){
                          	acum += matriz1[i][k]*matriz2[k][j]; //se suma el producto de los elementos por cada fila de A
                          	suma[i][j] = acum; // se iguala matriz producto con la suma
